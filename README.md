@@ -4,6 +4,6 @@ An individual class project for Computer Systems Course using C
 
 Files written on my own:
 
-cache.c cache.h -- cache implementation of proxy
+cache.c ,  cache.h -- cache implementation of proxy
 
 proxy.c -- proxy simulator
