@@ -1,6 +1,4 @@
 /*
- * Starter code for proxy lab.
- * Feel free to modify this code in whatever way you wish.
  * I wrote separate cache.c & cache.h files to implement the cache part
  * pthread_mutex_lock and pthread_mutex-unlock ensure that we only do one
  * write at a time and exclude any interferences while writting to cache
